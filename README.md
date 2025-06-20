@@ -1,6 +1,3 @@
-# Tic-Tac-Toe-Game
-This is a Website based Tic Tac Toe game created using HTML, CSS, and JavaScript.
-
 # 🎮 Tic Tac Toe Game (Dark/Light Mode Toggle)
 
 A simple and interactive Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**. Play between two players, toggle dark/light mode, and reset the game board easily!
